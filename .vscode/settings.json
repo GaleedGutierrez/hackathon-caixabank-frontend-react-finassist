@@ -1,0 +1,4 @@
+{
+	"cSpell.words": ["tseslint"],
+	"oxc_language_server.configPath": "${workspaceFolder}/oxlintrc.json"
+}
